@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="518.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.QuizController">
+   <children>
+      <TextArea fx:id="questions" layoutX="4.0" layoutY="14.0" prefHeight="220.0" prefWidth="594.0" />
+      <VBox layoutY="234.0" prefHeight="278.0" prefWidth="294.0">
+         <children>
+            <TextField fx:id="questionOneAnswer" promptText="Odgovor na prvo pitanje" />
+            <TextField fx:id="questionTwoAnswer" promptText="Odgovor na drugo pitanje" />
+            <TextField fx:id="questionThreeAnswer" promptText="Odgovor na trece pitanje" />
+            <TextField fx:id="questionFourAnswer" promptText="Odgovor na cetvrto pitanje" />
+            <TextField fx:id="questionFiveAnswer" promptText="Odgovor na peto pitanje" />
+            <Button fx:id="submit" mnemonicParsing="false" onMousePressed="#setOnActionButton" prefHeight="26.0" prefWidth="292.0" text="Submit" />
+            <Button fx:id="showResults" mnemonicParsing="false" onMousePressed="#setOnActionShowResults" prefHeight="26.0" prefWidth="292.0" text="Show results" />
+            <Button fx:id="logOut" mnemonicParsing="false" onMousePressed="#setOnActionLogOut" prefHeight="26.0" prefWidth="303.0" text="Log out" />
+         </children>
+      </VBox>
+      <TextArea fx:id="results" layoutX="332.0" layoutY="234.0" prefHeight="200.0" prefWidth="243.0" promptText="Rezultati kviza" />
+   </children>
+</AnchorPane>

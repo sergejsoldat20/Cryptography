@@ -1,0 +1,2 @@
+V	230604151335Z		01	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=ca1/emailAddress=ca1@mail.com
+V	230604151355Z		02	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=ca2/emailAddress=ca2@mail.com

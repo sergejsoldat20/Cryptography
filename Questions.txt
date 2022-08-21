@@ -1,0 +1,20 @@
+1#Koji je glavni grad Libije?#Tripoli
+2#U kojem gradu se nalazi Golden Gate Bridge?#San Francisko
+3#Car Dusan je zapamcen po kojem imenu?#Dusan Silni
+4#Koga je napala Njemacka na pocetku 2. Svjetskog rata?#Poljska
+5#Ko je bog sunca u egipatskoj mitologiji?#Ra
+6#Akrofobija je strah od:#Visine
+7#Ko je napisao "Za kim zvona zvone"?#Ernest Hemingvej
+8#Gdje se nalazi muzej Luvr?#Pariz
+9#Kako se zvao rimski vrhovni bog?#Jupiter
+10#Kako se zvao grcki vrhovni bog?#Zevs
+11#Kako se zove vladavina vecine?#Demokratija
+12#Ko je otkrio teoriju relativiteta?#Albert Ajnstajn
+13#Ko je autor slike "Nocna straza"?#Rembrant
+14#Kako se zove porast opsteg nivoa cijena?#Inflacija
+15#Koji je glavni grad Australije?#Kanbera
+16#Koji je stari naziv za Istanbul?#Carigrad
+17#Koja je skracenica za Medjunarodnu kosarkasku federaciju?#FIBA
+18#Ko je autor poeme "Djacki rastanak"?#Branko Radicevic
+19#Orgranizacija koja se bavi medjunarodnom policijskom saradnjom:#Interpol
+20#Gdje se odrzava Oktoberfest?#Minhen
